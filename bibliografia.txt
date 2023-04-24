@@ -1,0 +1,3 @@
+-Chacon, s. and Strub,B. Pro Git. Apress.
+_Loeliger, J.and McCullough, m.Version control with git.
+o´Reilly
